@@ -1,7 +1,7 @@
-body{
-    color: red;
-    padding-left: 50%;
+.card { 
+    height: 40%;
+    object-fit: cover
 }
-body p {
-    font-style: italic;
+.btn {
+    min-width: 250px;
 }
